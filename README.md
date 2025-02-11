@@ -1,9 +1,9 @@
-Meu nome é Jhoel tenho 19 anos sou boliviano e estou morando no Brasil há cerca de 4 anos, desde criança gostava muito de resolver problemas especificamente matematicos, já participei em algumas olimpiadas 
-na Bolivia mas só cheguei na fase estadual em matematica e fisica no 8 ano do ensino fundamental, no Brasil só participei da OBMEP no meu 2 ano de ensino médio mas so ganhei menção honrosa na 2 fase, motivado eu 
-aprendi muito para o 3 ano, porém infelizmente a diretora não confirmou a inscripção no 3 ano, na parte da programação sou bem iniciante mas bastante animado para aprender o maximo nas aulas de sistemas da 
-informação e por conta propia,com foco em entrar no mercado bancario e para isso o mais importante é a constancia, disciplina e organização. Consigo me comunicar em inglés, espanhol e português, ainda posso 
-aprender mais então qualquer erro eu ficarei muito agradecido por sua correção.
+Meu nome é Jhoel, tenho 19 anos, sou boliviano e moro no Brasil há cerca de 4 anos. Desde criança, gosto muito de resolver problemas, especialmente matemáticos. Já participei de algumas olimpíadas na Bolívia, mas só cheguei à fase estadual em Matemática e Física no 8º ano do ensino fundamental. No Brasil, participei da OBMEP no 2º ano do ensino médio, mas só ganhei menção honrosa na 2ª fase. Motivado, aprendi muito para o 3º ano, mas infelizmente a diretora não confirmou minha inscrição na competição.
 
-- 🌱 Atualmente estou aprendendo python, htmml, css, javascript, mysql e kotlim
-- 😄 Sintase a vontade de corrijir algum erro que com certeza farei 
-- ⚡ A melhor forma de ter energia para mim é treinar e comer a vontade
+Na parte de programação, sou bem iniciante, mas estou bastante animado para aprender o máximo nas aulas de Sistemas de Informação e também por conta própria. Meu foco é entrar no mercado bancário, e para isso o mais importante é a constância, disciplina e organização.
+
+Consigo me comunicar em inglês, espanhol e português, e ainda posso aprender mais, então qualquer erro que eu cometer, ficarei muito agradecido por sua correção.
+
+- 🌱 Atualmente, estou aprendendo Python, HTML, CSS, JavaScript, MySQL e Kotlin.
+- 😄 Sinta-se à vontade para corrigir qualquer erro que eu cometer.
+- ⚡ A melhor forma de ter energia para mim é treinar e comer a vontade.
