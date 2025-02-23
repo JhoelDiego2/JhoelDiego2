@@ -140,8 +140,7 @@ Me chamo Jhoel Diego Mamamni Mita, tenho 19 anos e sou natural de La paz, Bolivi
     width="35px"
     style="padding-rigth: 10px;"
     src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
-/>
-:Nivel Avançado
+/> :Nivel Avançado
 <br/>
 
 ### 📊 Estatísticas
