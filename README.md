@@ -113,6 +113,37 @@ Me chamo Jhoel Diego Mamamni Mita, tenho 19 anos e sou natural de La paz, Bolivi
 <br/>
 <br/>
 
+### 🔠Idiomas
+<br/>
+<img
+    align="left"
+    alt="Brasil"
+    title="Brasil"
+    width="35px"
+    style="padding-rigth: 10px;"
+    src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+/>
+: Nivel Fluente<br/><br/>
+<img
+    align="left"
+    alt="Espanha"
+    title="Espanhol"
+    width="35px"
+    style="padding-rigth: 10px;"
+    src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
+/>
+:Nivel Nativo <br/><br/>
+<img
+    align="left"
+    alt="EUA"
+    title="EUA"
+    width="35px"
+    style="padding-rigth: 10px;"
+    src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+/>
+:Nivel Avançado
+<br/>
+
 ### 📊 Estatísticas
 
 <p>
@@ -133,3 +164,4 @@ Me chamo Jhoel Diego Mamamni Mita, tenho 19 anos e sou natural de La paz, Bolivi
   />
 
 </p>
+
