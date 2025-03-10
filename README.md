@@ -12,7 +12,7 @@ Me chamo Jhoel Diego Mamamni Mita, tenho 19 anos e sou natural de La paz, Bolivi
             src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
-    <a href="https://criarmeulink.com.br/u/1740326312">
+    <a href="mailto:jhoel.mita@sptech">
         <img 
             alt="gmail" 
             title="Link para enviar um email" 
@@ -23,20 +23,20 @@ Me chamo Jhoel Diego Mamamni Mita, tenho 19 anos e sou natural de La paz, Bolivi
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/JhoelDiego1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/JhoelDiego2?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/JhoelDiego2?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/JhoelDiego1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/JhoelDiego2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
      <a href="https://www.bing.com/maps?q=S%C3%A3o+Paulo&satid=id.sid%3Ac6cf2f6e-626c-4267-ae48-9e13ea74d2b9&FORM=KC2MAP&cp=-23.683231%7E-46.595678&lvl=10.7">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+           alt="Localização" 
+            title="Localização São Paulo - BR" 
             src="https://custom-icon-badges.demolab.com/badge/S%C3%A3o%20Paulo-BR-green?style=for-the-badge&logo=location&logoColor=white"
         />
     </a>
@@ -155,13 +155,15 @@ Me chamo Jhoel Diego Mamamni Mita, tenho 19 anos e sou natural de La paz, Bolivi
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="float: left; margin-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=JhoelDiego2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoelDiego2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+  
+  <img 
+    align="left" 
+    alt="GitHub Tecnologias" 
+    height="200"
+    style="float: left;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoelDiego2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
