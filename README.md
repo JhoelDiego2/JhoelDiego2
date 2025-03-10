@@ -152,18 +152,12 @@ Me chamo Jhoel Diego Mamamni Mita, tenho 19 anos e sou natural de La paz, Bolivi
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="float: left; margin-right: 10px;" 
+    width="50%"
     src="https://github-readme-stats.vercel.app/api?username=JhoelDiego2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   
   <img 
-    align="left" 
-    alt="GitHub Tecnologias" 
-    height="200"
-    style="float: left;" 
+    width="50%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoelDiego2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
