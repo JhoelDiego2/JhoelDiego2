@@ -42,8 +42,8 @@ Sou **Jhoel Diego Mamani Mita**, estudante de **Sistemas de Informação na SPTe
 ---
 
 # 🔠 Idiomas  
-<br/>
-<div style="display: flex; align-items: center; gap: 10px;">
+<div align="center" style="display: flex; gap: 5vw; justify-content: center; ">
+<div>
     <img
         alt="Brasil"
         title="Brasil"
@@ -52,9 +52,8 @@ Sou **Jhoel Diego Mamani Mita**, estudante de **Sistemas de Informação na SPTe
     />
     <span>Nível Fluente</span>
 </div>
-<br/>
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div>
     <img
         alt="Espanha"
         title="Espanhol"
@@ -63,9 +62,8 @@ Sou **Jhoel Diego Mamani Mita**, estudante de **Sistemas de Informação na SPTe
     />
     <span>Nível Nativo</span>
 </div>
-<br/>
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div>
     <img
         alt="EUA"
         title="EUA"
@@ -74,9 +72,35 @@ Sou **Jhoel Diego Mamani Mita**, estudante de **Sistemas de Informação na SPTe
     />
     <span>Nível Avançado</span>
 </div>
+</div>
 
-<br>
-<br>
+ # 🔥 Projetos 
+
+<div align="center"> 
+<a href="https://github.com/JhoelDiego2/Shadow-Slave-Projeto">
+<img src="https://i.imgur.com/YZBdD7r.png" width="700"/> </a>
+</div>
+
+<div align="center" style="display: flex; justify-content: center">
+
+<a href="https://github.com/JhoelDiego2/Gemini-IA-Chat" width="350">
+<img src="https://i.imgur.com/Su9HrIC.png" width="350">
+</a>
+
+<a href="https://github.com/JhoelDiego2/Calculadora-diferentes-bases" width="350">
+<img src="https://i.imgur.com/lebT2Ac.png" width="350">
+</a>
+</div>
+<div align="center"> 
+<a href="https://github.com/JhoelDiego2/LOFHEL">
+<img src="https://i.imgur.com/z7X9Ftt.png" width="700"/>
+</a>
+ </div>
+
+
+
+ ----
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JhoelDiego2&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
