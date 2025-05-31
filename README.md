@@ -1,20 +1,14 @@
-# 🧑‍💻 Jhoel Diego
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8200DB&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Jhoel+Diego+;Desenvolvedor+Front+end+%E2%9D%8C;Desenvolvedor+Back+end+%E2%9D%8C;Desenvolvedor+Full+stack+%E2%9C%85)](https://git.io/typing-svg)
 
-**`Desenvolvedor FullStack`**
+Sou **Jhoel Diego Mamani Mita**, estudante de **Sistemas de Informação na SPTech**. Apaixonado por **tecnologia, matemática e resolução de problemas**. Busco crescer e compartilhar meu progresso enquanto sigo meu sonho de atuar na área de **tecnologia**.
 
-Me chamo Jhoel Diego Mamamni Mita, tenho 19 anos e sou natural de La paz, Bolivia. Fiz o ensino médio completo em São Paulo, Brazil concluido-o em 2023.Atualmente, estou cursando Sistemas da Informação na SPTech. Sou apaxionado por matematica e tecnologia, já particiei em olimpiadas na Bolivia e no Brasil, na tecnologia sou iniciante e espero poder mostrar o meu progresso através dos repositorios e mostrar a minha contancia e foco para conseguir entrar no mercado de tecnologia no sistema bancario, que é o meu sonnho desde pequeno. 
+![Profile views](https://komarev.com/ghpvc/?username=JhoelDiego2&label=Profile%20views&color=8200db&style=flat)
+
 
 <p align="left">
-    <a href="https://github.com/JhoelDiego2?tab=repositories">
-        <img 
-            alt="github repositorios" 
-            title="github repositorios" 
-            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
-        />
-    </a>
     <a href="mailto:jhoel.mita@sptech">
         <img 
-            alt="gmail" 
+            alt="sptech" 
             title="Link para enviar um email" 
             src="https://custom-icon-badges.demolab.com/badge/-jhoel.mita@sptech-red?style=for-the-badge&logo=mention&logoColor=white"
         />
@@ -43,77 +37,11 @@ Me chamo Jhoel Diego Mamamni Mita, tenho 19 anos e sou natural de La paz, Bolivi
 </p>
 
 ---
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+---
 
-### 🤖 Linguagens e Tecnologias que estou aprendendo
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img
-    align="left"
-    alt="Kotlim"
-    title="Kotlim"
-    width="30px"
-    style="padding-rigth: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
-/>
-<img
-    align="left"
-    alt="SQL"
-    title="SQL"
-    width="30px"
-    style="padding-rigth: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
-<img
-    align="left"
-    alt="Github"
-    title="Github"
-    width="30px"
-    style="padding-rigth: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-<br/>
-<br/>
-
-### 🔠 Idiomas  
+# 🔠 Idiomas  
 <br/>
 <div style="display: flex; align-items: center; gap: 10px;">
     <img
@@ -147,17 +75,12 @@ Me chamo Jhoel Diego Mamamni Mita, tenho 19 anos e sou natural de La paz, Bolivi
     <span>Nível Avançado</span>
 </div>
 
+<br>
+<br>
 
-### 📊 Estatísticas
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JhoelDiego2&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JhoelDiego2&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JhoelDiego2&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p>
-  <img 
-    width="50%"
-    src="https://github-readme-stats.vercel.app/api?username=JhoelDiego2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  
-  <img 
-    width="50%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoelDiego2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+![Snake Game](dist/github-contribution-grid-snake.gif)
