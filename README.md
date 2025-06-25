@@ -84,9 +84,27 @@ Sou **Jhoel Diego Mamani Mita**, estudante de **Sistemas de Informação na SPTe
 
 
 # 🔠 Idiomas  
-<div align="center" style="display: flex;gap: 30px; justify-content: center;">
+<div align="center" >
+   <img
+        alt="Brasil"
+        title="Brasil"
+        width="42px"
+        src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+    />
   <img src="https://img.shields.io/badge/Português-Fluente-green?style=for-the-badge&logo=translate" height="30" />
+     <img
+        alt="España"
+        title="España"
+        width="46px"
+        src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
+    />
   <img src="https://img.shields.io/badge/Espanhol-Nativo-yellow?style=for-the-badge&logo=translate" height="30" />
+     <img
+        alt="eua"
+        title="eua"
+        width="58px"
+        src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+    />
   <img src="https://img.shields.io/badge/Inglês-Avançado-blue?style=for-the-badge&logo=translate" height="30" />
 </div>
 
