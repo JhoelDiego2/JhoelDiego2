@@ -10,7 +10,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JhoelDiego2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhoelDiego2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhoelDiego2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" >
+
+
 </div>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
@@ -19,14 +21,21 @@
 
 <p><strong>Sobre mim</strong></p>
 
-- <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Meu nome é Jhoel Diego e eu sou um Desenvolvedor FullStack cursando Sistemas da Informação...
+- <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> <p align="left"> &nbsp;&nbsp; Olá! Meu nome é Jhoel Diego e eu sou um Desenvolvedor FullStack cursando Sistemas da Informação... </p>
 <br />
-- <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo atual é me tornar um desenvolver FullStack e Poliglota.<br />
-- <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />Minha stack principal é Javasript, React e Typescript. 
+
+- <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> <p align="left"> &nbsp;&nbsp; Meu objetivo atual é me tornar um desenvolver FullStack e Poliglota </p>.<br />
+
+
+- <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> <p align="left"> &nbsp;&nbsp;Minha stack principal é Javasript, React e Typescript.  </p>
 <br />
-- <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Eu sempre trato de ser o mais responavel e respeitoso, e eu gosto de intercambiar ideas a fim de aprender mais
+
+
+- <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> <p align="left"> &nbsp;&nbsp; Eu sempre trato de ser o mais responavel e respeitoso, e eu gosto de intercambiar ideas a fim de aprender mais </p>
 <br />
-- <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> Cursando o 2 semestre de Sistemas da Informação na Sptech School.
+
+
+- <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> <p align="left"> &nbsp;&nbsp; Cursando o 2 semestre de Sistemas da Informação na Sptech School.</p>
 
 ## &nbsp;Minha Stack
 
