@@ -87,7 +87,7 @@
     <td width="70%">
       <b>Título:</b> OBERON<br>
       <b>Arquitetura:</b> Monolítica (Foco em Análise de dados)<br>
-      <b>Stack:</b> Node.js, JavaScript, SQL Server, Slack API, AWS<br>
+      <b>Stack:</b> Node.js, JavaScript, SQL Server, Slack API, AWS, Java, Python<br>
       <b>Destaques Técnicos:</b>
       <ul>
         <li>Monitoramento de performance de hardware e sistemas</li>
