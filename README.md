@@ -55,38 +55,128 @@
     </a>
 </div>
 
-## Projetos
+## 👥 Projetos em Grupo
 
+<table width="100%">
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://github.com/JhoelDiego2/LOFHEL">
+        <img src="https://i.imgur.com/z7X9Ftt.png" width="100%">
+      </a>
+    </td>
+    <td width="70%">
+      <b>Título:</b> LOFHEL<br>
+      <b>Arquitetura:</b> Monolítica (Foco em IoT)<br>
+      <b>Stack:</b> Node.js, JavaScript, HTML5, CSS3, MySQL<br>
+      <b>Destaques Técnicos:</b>
+      <ul>
+        <li>Monitoramento de sensores em tempo real</li>
+        <li>Autenticação de usuários e níveis de acesso</li>
+        <li>Integração de hardware com coleta de dados via sensores</li>
+        <li>Dashboard dinâmico para visualização de métricas</li>
+      </ul>
+    </td>
+  </tr>
 
-<div align="center" style="display: flex; justify-content: center">
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://github.com/JhoelDiego2/Oberon-Site-Web">
+        <img src="https://camo.githubusercontent.com/3328e1f24b26a45c723312a3208d9ce377f4b79ed9b45c64172be497e737bda0/68747470733a2f2f692e696d6775722e636f6d2f463750516b4d322e706e67" width="100%">
+      </a>
+    </td>
+    <td width="70%">
+      <b>Título:</b> OBERON<br>
+      <b>Arquitetura:</b> Monolítica (Foco em Análise de dados)<br>
+      <b>Stack:</b> Node.js, JavaScript, SQL Server, Slack API, AWS<br>
+      <b>Destaques Técnicos:</b>
+      <ul>
+        <li>Monitoramento de performance de hardware e sistemas</li>
+        <li>Análise preditiva utilizando Inteligência Artificial</li>
+        <li>Geração automática de logs de aplicação para auditoria</li>
+        <li>Integração com Slack para alertas críticos em tempo real</li>
+        <li>Deploy em um ambiente nuvem da aws</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/JhoelDiego2/Shadow-Slave-Projeto">
-<img src="https://i.imgur.com/YZBdD7r.png" width="270"/> </a>
+## 🚀 Projetos Pessoais
 
-<a href="https://github.com/JhoelDiego2/LOFHEL" width="270">
-<img src="https://i.imgur.com/z7X9Ftt.png" width="270">
-</a>
+<table width="100%">
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://github.com/JhoelDiego2/Shadow-Slave-Projeto">
+        <img src="https://i.imgur.com/YZBdD7r.png" width="100%">
+      </a>
+    </td>
+    <td width="70%">
+      <b>Título:</b> Shadow Slave<br>
+      <b>Arquitetura:</b> Monolítica (Web Content)<br>
+      <b>Stack:</b> Node.js, JavaScript, CSS3, HTML5<br>
+      <b>Destaques Técnicos:</b>
+      <ul>
+        <li>Landing page promocional com design focado em UI/UX</li>
+        <li>Implementação de mini-games temáticos em Vanilla JS</li>
+        <li>Otimização de assets e identidade visual</li>
+      </ul>
+    </td>
+  </tr>
 
-<a href="https://github.com/JhoelDiego2/Portfolio.git" width="270">
-<img src="./assets/port.png" width="270">
-</a>
-</div>
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://github.com/JhoelDiego2/Portfolio.git">
+        <img src="./assets/port.png" width="100%">
+      </a>
+    </td>
+    <td width="70%">
+      <b>Título:</b> Portfólio Pessoal<br>
+      <b>Arquitetura:</b> SPA (Single Page Application)<br>
+      <b>Stack:</b> React, TypeScript, Vite, Styled-Components<br>
+      <b>Destaques Técnicos:</b>
+      <ul>
+        <li>Componentização avançada e código altamente reutilizável</li>
+        <li>Suporte nativo a Dark/Light Mode</li>
+        <li>Integração com APIs de e-mail (Contact Form)</li>
+        <li>Design focado em performance e SEO</li>
+      </ul>
+    </td>
+  </tr>
 
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://github.com/JhoelDiego2/ExtremeGoHorse.git">
+        <img src="./assets/ponni.png" width="100%">
+      </a>
+    </td>
+    <td width="70%">
+      <b>Título:</b> Extreme Go Horse<br>
+      <b>Arquitetura:</b> Client-side Application<br>
+      <b>Stack:</b> JavaScript (Vanilla), HTML5, CSS3<br>
+      <b>Destaques Técnicos:</b>
+      <ul>
+        <li>Manipulação intensiva do DOM em tempo real</li>
+        <li>Lógica de ranqueamento e estados de pódio dinâmicos</li>
+        <li>Foco em agilidade de funcionalidades e lógica visual</li>
+      </ul>
+    </td>
+  </tr>
 
-<div align="center" style="display: flex; justify-content: center">
-
-
-
-<a href="https://github.com/JhoelDiego2/Mita_Control.git" width="270">
-<img src="./assets/mita.png" width="270">
-</a>
-
-<a href="https://github.com/JhoelDiego2/ExtremeGoHorse.git" width="270">
-<img src="./assets/ponni.png" width="270">
-</a>
-
-<a href="https://github.com/JhoelDiego2/Calculadora-diferentes-bases" width="270">
-<img src="https://i.imgur.com/lebT2Ac.png" width="270">
-</a>
-
-</div>
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://github.com/JhoelDiego2/Calculadora-diferentes-bases">
+        <img src="https://i.imgur.com/lebT2Ac.png" width="100%">
+      </a>
+    </td>
+    <td width="70%">
+      <b>Título:</b> Conversor de Bases Numéricas<br>
+      <b>Arquitetura:</b> Static Web App<br>
+      <b>Stack:</b> JavaScript, HTML5, CSS3<br>
+      <b>Destaques Técnicos:</b>
+      <ul>
+        <li>Algoritmos de conversão (Binário, Octal, Decimal, Hexadecimal)</li>
+        <li>Interface intuitiva para manipulação matemática</li>
+        <li>Validação de entrada de dados para garantir integridade</li>
+      </ul>
+    </td>
+  </tr>
+</table>
