@@ -61,14 +61,14 @@
 <div align="center" style="display: flex; justify-content: center">
 
 <a href="https://github.com/JhoelDiego2/Shadow-Slave-Projeto">
-<img src="https://i.imgur.com/YZBdD7r.png" width="250"/> </a>
+<img src="https://i.imgur.com/YZBdD7r.png" width="270"/> </a>
 
-<a href="https://github.com/JhoelDiego2/LOFHEL" width="250">
-<img src="https://i.imgur.com/z7X9Ftt.png" width="250">
+<a href="https://github.com/JhoelDiego2/LOFHEL" width="270">
+<img src="https://i.imgur.com/z7X9Ftt.png" width="270">
 </a>
 
-<a href="https://github.com/JhoelDiego2/Portfolio.git" width="250">
-<img src="./assets/port.png" width="250">
+<a href="https://github.com/JhoelDiego2/Portfolio.git" width="270">
+<img src="./assets/port.png" width="270">
 </a>
 </div>
 
