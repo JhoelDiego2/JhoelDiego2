@@ -61,14 +61,14 @@
 <div align="center" style="display: flex; justify-content: center">
 
 <a href="https://github.com/JhoelDiego2/Shadow-Slave-Projeto">
-<img src="https://i.imgur.com/YZBdD7r.png" width="300"/> </a>
+<img src="https://i.imgur.com/YZBdD7r.png" width="250"/> </a>
 
-<a href="https://github.com/JhoelDiego2/LOFHEL" width="300">
-<img src="https://i.imgur.com/z7X9Ftt.png" width="300">
+<a href="https://github.com/JhoelDiego2/LOFHEL" width="250">
+<img src="https://i.imgur.com/z7X9Ftt.png" width="250">
 </a>
 
-<a href="https://github.com/JhoelDiego2/Portfolio.git" width="300">
-<img src="./assets/port.png" width="300">
+<a href="https://github.com/JhoelDiego2/Portfolio.git" width="250">
+<img src="./assets/port.png" width="250">
 </a>
 </div>
 
@@ -77,16 +77,16 @@
 
 
 
-<a href="https://github.com/JhoelDiego2/Mita_Control.git" width="350">
-<img src="./assets/mita.png" width="350">
+<a href="https://github.com/JhoelDiego2/Mita_Control.git" width="270">
+<img src="./assets/mita.png" width="270">
 </a>
 
-<a href="https://github.com/JhoelDiego2/ExtremeGoHorse.git" width="350">
-<img src="./assets/ponni.png" width="350">
+<a href="https://github.com/JhoelDiego2/ExtremeGoHorse.git" width="270">
+<img src="./assets/ponni.png" width="270">
 </a>
 
-<a href="https://github.com/JhoelDiego2/Calculadora-diferentes-bases" width="350">
-<img src="https://i.imgur.com/lebT2Ac.png" width="350">
+<a href="https://github.com/JhoelDiego2/Calculadora-diferentes-bases" width="270">
+<img src="https://i.imgur.com/lebT2Ac.png" width="270">
 </a>
 
 </div>
