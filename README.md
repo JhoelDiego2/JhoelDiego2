@@ -11,25 +11,25 @@
 
 <p><strong>Sobre mim</strong></p>
 
-- <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand" width="25" height="25" /> <p align="left"> &nbsp;&nbsp; Olá! Sou <strong>Jhoel Mita</strong>, boliviano, 20 anos e residente no Brasil há 5 anos.</p>
+- <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand" width="25" height="25" /> <p align="left"> &nbsp;&nbsp; Olá! Sou <strong>Jhoel Mita</strong>, boliviano, 20 anos e sou residente no Brasil há 5 anos.</p>
 
-- <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Office%20Worker%20Light%20Skin%20Tone.png" alt="Office Worker" width="25" height="25" /> <p align="left"> &nbsp;&nbsp; Atuo como Estagiário de Arquiteto de Soluções na Tribo Core do Bradesco.</p>
+- <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Office%20Worker%20Light%20Skin%20Tone.png" alt="Office Worker" width="25" height="25" /> <p align="left"> &nbsp;&nbsp; Atuo como Estagiário de Arquitetura de Soluções para o chapter de engenhraria de plataformas.</p>
 
-- <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps%20Light%20Skin%20Tone.png" alt="Biceps" width="25" height="25" /> <p align="left"> &nbsp;&nbsp; Meu objetivo é aprender e evoluir minhas competências para me tornar Arquiteto Júnior.</p>
+- <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps%20Light%20Skin%20Tone.png" alt="Biceps" width="25" height="25" /> <p align="left"> &nbsp;&nbsp; Meu objetivo é aprender e evoluir minhas competências para me tornar Arquiteto Júnior ou Engenheiro de Softawere Júnior.</p>
 
-- <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> <p align="left"> &nbsp;&nbsp; Meu foco atual é arquitetura de software, engenharia de plataforma e backend corporativo escalável. </p>
+- <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> <p align="left"> &nbsp;&nbsp; Meu foco atual é arquitetura de soluções cloud, engenharia de plataforma, devex e backend corporativo escalável. </p>
 
-- <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> <p align="left"> &nbsp;&nbsp; Minha base técnica é focada em Java (Spring Boot), Python, Javascript, Azure, AWS, Docker e Design Patterns. </p>
+- <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> <p align="left"> &nbsp;&nbsp; Minha base técnica é focada em Java (Spring Boot), Python, Javascript e AWS </p>
 
-- <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="File Folder" width="25" height="25" /> <p align="left"> &nbsp;&nbsp; Tenho vivência prática com documentação arquitetural (ADRs), modelagem de APIs REST e microsserviços. </p>
+- <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="File Folder" width="25" height="25" /> <p align="left"> &nbsp;&nbsp; Tenho vivência prática com documentação arquitetural (ADRs), modelagem de APIs REST e microsserviços, desenhos de soluções utilizando o c4 model e archmate. </p>
 
 - <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Teacher" width="25" height="25" /> <p align="left"> &nbsp;&nbsp; Estudante de Sistemas da Informação na SPtech - São Paulo Tech School.</p>
 
 ## &nbsp;Minhas Ferramentas e Tecnologias
 
 <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,ts&theme=dark" />
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,mysql,postgres&theme=dark" />
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,&theme=dark" />
 
 ## Idiomas  
 <div align="center" >
