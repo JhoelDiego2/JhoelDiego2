@@ -26,11 +26,11 @@
 - <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Teacher" width="25" height="25" /> <p align="left"> &nbsp;&nbsp; Estudante de Sistemas da Informação na SPtech - São Paulo Tech School.</p>
 
 ## &nbsp;Minhas Ferramentas e Tecnologias
-
+<div align="center" >
 <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,ts&theme=dark" />
 <img src="https://skillicons.dev/icons?i=aws,docker,mysql,postgres&theme=dark" />
 <img src="https://skillicons.dev/icons?i=git,github,&theme=dark" />
-
+</div>
 ## Idiomas  
 <div align="center" >
    <img alt="Brasil" title="Brasil" width="42px" src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" />
